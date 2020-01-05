@@ -1,13 +1,15 @@
-BACKEND (Inside 'backend' Folder):
-
 1. virtualenv env
+
 2. env\Scripts\activate
+-------------------------------------
+BACKEND (Inside 'backend' Folder):
 
 3. install required packages
 
 4. python manage.py runserver
-
+-------------------------------------
 FRONTEND (Inside 'frontend' Folder):
 
-1. npm install
-2. npm start
+5. npm install
+
+6. npm start
